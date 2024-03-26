@@ -1,0 +1,6 @@
+framework module Pods_TrynusCourseProject {
+  umbrella header "Pods-TrynusCourseProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
